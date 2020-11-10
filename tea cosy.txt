@@ -1,0 +1,28 @@
+spec
+https://content.codecademy.com/courses/freelance-1/unit-4/img-tea-cozy-redline.jpg
+
+logo
+https://content.codecademy.com/courses/freelance-1/unit-4/img-tea-cozy-logo.png
+
+pic 1
+https://content.codecademy.com/courses/freelance-1/unit-4/img-bedford-bizarre.jpg
+
+pic 2
+https://content.codecademy.com/courses/freelance-1/unit-4/img-berryblitz.jpg
+
+pic3
+https://content.codecademy.com/courses/freelance-1/unit-4/img-donut.jpg
+
+pic4
+https://content.codecademy.com/courses/freelance-1/unit-4/img-locations-background.jpg
+
+pic5
+https://content.codecademy.com/courses/freelance-1/unit-4/img-mission-background.jpg
+
+pic6
+https://content.codecademy.com/courses/freelance-1/unit-4/img-myrtle-ave.jpg
+
+pic7
+https://content.codecademy.com/courses/freelance-1/unit-4/img-spiced-rum.jpg
+
+
